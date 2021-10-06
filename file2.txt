@@ -2,3 +2,6 @@ Hello Everyone
 Welcome
 Good morning
 Say hi
+Thank you all
+Good bye
+Signing off
