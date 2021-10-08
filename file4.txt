@@ -1,5 +1,8 @@
 PYTHON
 JAVA
-GO
+GOLANG
+RUBY
+C
+C++
 R
-SCALA
+
